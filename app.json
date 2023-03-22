@@ -36,7 +36,7 @@
     },
     "STRING_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
-      "value": "1AZWarzQBu2t86mO-4xwfIeekDmM0RrN8R-kCqzxowojnrsVJUeSd6qrB15WpJIaZ_8D8rwuiZJbp7ObAPoQ9TYKgVehDdAvodY3LiT95bVV8CCVtvvLFlzwmvrEWROFxg03WYYPK9ANNgwQOYngIPUsZhOC4P1T_osX6m_nAtjH524bnY26Ct7czM6SUGy29jrj8CQFIsFgPtfG3vLgc-pYMXAqF7LI_icgCghqtzohmLkki58ZcRn9OCAjxkYDB600mZet_g_SrTBw6gy8TtXkwacuvHpUbUUVQSn5EvNxWRB1DCLg33pChlAAWNG6ETRsdnqvAOyeDMOD0l5l3cSqEy0cbrng="
+      "value": "1BVtsOK0Bu0tYwP2mUHb0q2uAXgVxHmDfBawGLJy_5IOI-4HtnzXzwOrboBlzOZcAHnG7J1R84yRLlFaH5iyOjcKnzSj4i-E-Rm7htqh89gR_6pcFY-jbO2uWZ0GaYJKvDgi2UUdwmpYNW0IINR6zJ_H6aG_M-nsIff8kPU0IhwOb_IfNYzQfKKLPpH5LGlp9zBxw0tnBdyWzFRQf_uBrBsJedqABxaR0S_eUc8ORB_Ou-n4PW_JqggFXBK5nW49YPQnTcwPtkor2hv2khGY4sc2DwOkXaK5Yo0QSuQZx1O6g74IZzhu3CZ5VDx04Kyr1ogg-5H0tCMr7w7AjSLDFuLCDB9j80Vc="
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
@@ -48,7 +48,7 @@
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": "5568808191:AAFb3RvaJIkCw5PgDjH00AhXppsIBvAJANc"
+      "value": "5589078481:AAEDLjs4nzucEMxEBDqfkfbkU8u1PoIIHhQ"
     }
   },
   "addons": [{
